@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Design-Patterns-Abstract-Factory
+namespace Design_Patterns_Abstract_Factory
 {
     class Program
     {
